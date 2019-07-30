@@ -2,7 +2,7 @@
 date: 2019-01-16
 title: 'How Do I Start a Blog?'
 tags: ['JavaScript']
-hero: ../../images/how-do-i-start-a-blog.jpg
+image: ../../images/how-do-i-start-a-blog.jpg
 ---
 
 # Stellar Wallet for Testing Mutisignature Escrow Account with Time Lock & Recovery.
