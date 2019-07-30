@@ -4,7 +4,7 @@ title: "Async Timer"
 published: false
 tags: ["javascript", "showdev", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1513544705284-99373737fab6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1101&q=80
+cover_image: https://images.unsplash.com/photo-1513544705284-99373737fab6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1101&q=80
 ---
 
 ## ECMAScript

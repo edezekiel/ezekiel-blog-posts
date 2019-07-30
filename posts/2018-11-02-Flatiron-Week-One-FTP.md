@@ -4,7 +4,7 @@ title: "Flatiron Week One, File Transfer Protocol"
 published: false
 tags: ["webdev", "bootcamp", "beginners"]
 canonical_url:
-image: https://images.unsplash.com/photo-1533664845046-2a66954ce5f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1625&q=80
+cover_image: https://images.unsplash.com/photo-1533664845046-2a66954ce5f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1625&q=80
 ---
 
 I'm in week one of the Flatiron bootcamp! I'm writing this on Friday afternoon.

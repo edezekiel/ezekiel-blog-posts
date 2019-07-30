@@ -4,7 +4,7 @@ title: "Becoming a Web Developer"
 published: false
 tags: ["career", "beginners", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1693&q=80
+cover_image: https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1693&q=80
 ---
 
 One year ago I was employed as an attorney in Atlanta, GA. Since then I've quit my job, completed an immersive software engineering bootcamp, moved to Memphis, TN, _become a father_, and signed a contract to work as a software engineer at an amazing Blockchain Development firm in Memphis, TN.

@@ -4,7 +4,7 @@ title: "Ruby on Rails - Why form_for Uses Instance Variables"
 published: false
 tags: ["ruby", "bootcamp", "webdev"]
 canonical_url:
-image: https://cdn-images-1.medium.com/max/1600/1*wkFg3wfdmcWcp8Tszz53Ow.jpeg
+cover_image: https://cdn-images-1.medium.com/max/1600/1*wkFg3wfdmcWcp8Tszz53Ow.jpeg
 ---
 
 TLDR - we need an instance variable because `form_for` wont work without it.

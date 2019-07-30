@@ -2,9 +2,9 @@
 date: 2018-12-07
 title: "❤️ Pair Programming"
 published: false
-tags: ["ruby", "rails", "bootcamp", "beginners", "showdev"]
+tags: ["ruby", "bootcamp", "beginners", "showdev"]
 canonical_url:
-image: https://cdn-images-1.medium.com/max/1600/1*oWwWfVhYXnQ04muJtnAi6A.jpeg
+cover_image: https://cdn-images-1.medium.com/max/1600/1*oWwWfVhYXnQ04muJtnAi6A.jpeg
 ---
 
 Time continues to fly at Flatiron bookcamp. We are wrapping up mod two today (Ruby on Rails) and presenting projects.

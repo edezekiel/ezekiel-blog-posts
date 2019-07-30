@@ -4,7 +4,7 @@ title: "CSS Styling Using Flexbox"
 published: false
 tags: ["css", "beginners", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3367&q=80
+cover_image: https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3367&q=80
 ---
 
 This week I added some style to my blog using CSS and Flexbox. This post summarizes these concepts and describes how I applied them to my site.

@@ -4,7 +4,7 @@ title: "Javascript Testing With Mocha"
 published: false
 tags: ["javascript", "testing", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1444418185997-1145401101e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1991&q=80
+cover_image: https://images.unsplash.com/photo-1444418185997-1145401101e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1991&q=80
 ---
 
 ## Javascript Testing

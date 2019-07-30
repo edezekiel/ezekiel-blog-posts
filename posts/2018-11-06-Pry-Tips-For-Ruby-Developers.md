@@ -4,7 +4,7 @@ title: "Pry Tips for Ruby Developers"
 published: false
 tags: ["ruby", "bootcamp", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1485936791407-c48cafed8213?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+cover_image: https://images.unsplash.com/photo-1485936791407-c48cafed8213?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
 Pry is an amazing tool that can supercharge the software development process. Pry is a REPL (Read, Evaluate, Print, and Loop) like rpl.it and IRB. However, Pry has additional features that make it especially helpful for writing and debugging code.

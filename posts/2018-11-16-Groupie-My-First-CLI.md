@@ -4,7 +4,7 @@ title: "Groupie - My First CLI"
 published: false
 tags: ["ruby", "bootcamp", "showdev"]
 canonical_url:
-image: https://cdn-images-1.medium.com/max/1600/1*FKY6UcbaTk7GvqmNkIBDsw.jpeg
+cover_image: https://cdn-images-1.medium.com/max/1600/1*FKY6UcbaTk7GvqmNkIBDsw.jpeg
 ---
 
 This week I wrote my first Command Line Interface! It's called "Groupie," and it helps people get tickets to see their favorite concerts.

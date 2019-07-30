@@ -4,7 +4,7 @@ title: "Introducing My Upgraded Blog!"
 published: false
 tags: ["react", "rails", "showdev", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1498931299472-f7a63a5a1cfa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80
+cover_image: https://images.unsplash.com/photo-1498931299472-f7a63a5a1cfa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80
 ---
 
 I am happy to introduce the new and improved [edezekiel.com](https://www.edezekiel.com/)! I had so much fun creating this site and I hope you enjoy it.

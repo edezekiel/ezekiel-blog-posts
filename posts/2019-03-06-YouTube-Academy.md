@@ -4,7 +4,7 @@ title: "My Capstone Full-Stack Web App: YouTube Academy"
 published: false
 tags: ["react", "rails", "bootcamp", "showdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1519419166318-4f5c601b8e6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80
+cover_image: https://images.unsplash.com/photo-1519419166318-4f5c601b8e6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80
 ---
 
 It's official, I have graduated from Flatiron's Web Development bootcamp!I am so incredibly grateful for the passionate Flatiron students and staff that have helped me along this journey.

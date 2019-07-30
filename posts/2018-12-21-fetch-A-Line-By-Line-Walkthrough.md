@@ -4,7 +4,7 @@ title: "fetch() - A Line-By-Line Walkthrough"
 published: false
 tags: ["javascript", "bootcamp", "webdev"]
 canonical_url:
-image: https://cdn-images-1.medium.com/max/1600/1*TCusjWxu_6fafgRdJq9dfQ.jpeg
+cover_image: https://cdn-images-1.medium.com/max/1600/1*TCusjWxu_6fafgRdJq9dfQ.jpeg
 ---
 
 Learning the `fetch` API can be a struggle. It certainly was for me. Even when I got it working I had trouble explaining why it worked.

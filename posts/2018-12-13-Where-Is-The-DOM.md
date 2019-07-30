@@ -4,7 +4,7 @@ title: "Where is the DOM?"
 published: false
 tags: ["webdev", "bootcamp", "node"]
 canonical_url:
-image: https://cdn-images-1.medium.com/max/1600/1*beRYwjZEts5OBGUM1zEHbw.jpeg
+cover_image: https://cdn-images-1.medium.com/max/1600/1*beRYwjZEts5OBGUM1zEHbw.jpeg
 ---
 
 **TLDR:** the browser parses an html file, creates the DOM, and stores the DOM in memory.

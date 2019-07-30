@@ -4,7 +4,7 @@ title: "How Do I Start A Blog?"
 published: false
 tags: ["webdev", "beginners", "career"]
 canonical_url:
-image: https://images.unsplash.com/photo-1482376297902-a54c222cec2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80
+cover_image: https://images.unsplash.com/photo-1482376297902-a54c222cec2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80
 ---
 
 Welcome to the inaugural post! For my first project, I will walk through how I set up this blog. There are four basic steps: (1) choose your web hosting service, (2) pick a domain name, (3) create an html file, and (4) upload the file.

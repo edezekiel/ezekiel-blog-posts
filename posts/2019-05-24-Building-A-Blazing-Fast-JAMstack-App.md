@@ -4,7 +4,7 @@ title: "Building a Blazing Fast JAMstack App"
 published: false
 tags: ["javascript", "jamstack", "showdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1529840882932-55f06ab2c681?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+cover_image: https://images.unsplash.com/photo-1529840882932-55f06ab2c681?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
 ---
 
 I recently attended a meetup in Memphis hosted by Bryan Robinson. He is an accomplished web developer with a focus on [creating static sites](https://bryanlrobinson.com/blog/2019/04/26/client-work-and-the-jamstack/).

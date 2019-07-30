@@ -2,9 +2,9 @@
 date: 2019-06-26
 title: "Coding Tips For New Web Developers."
 published: false
-tags: ["react", "git", "beginners", "career", "webdev"]
+tags: ["react", "beginners", "career", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80
+cover_image: https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80
 ---
 
 If you follow my blog you know that I recently graduated from a coding bootcamp and started work as a web developer.

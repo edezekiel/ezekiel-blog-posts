@@ -4,7 +4,7 @@ title: "Kaizoku - My First Ruby Gem"
 published: false
 tags: ["ruby", "bootcamp", "showdev"]
 canonical_url:
-image: https://cdn-images-1.medium.com/max/1600/1*1GPJInCBvnUXVJWuMz_GGA.jpeg
+cover_image: https://cdn-images-1.medium.com/max/1600/1*1GPJInCBvnUXVJWuMz_GGA.jpeg
 ---
 
 I had so much fun building Groupie that I decided to build another CLI! This time I wanted to incorporate web scraping and turn my CLI into a Ruby Gem. The result is Kaizoku.

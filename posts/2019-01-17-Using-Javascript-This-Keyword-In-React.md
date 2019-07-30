@@ -4,7 +4,7 @@ title: 'Using Javascript\s "this" Keyword in React'
 published: false
 tags: ["javascript", "bootcamp", "webdev"]
 canonical_url:
-image: https://images.unsplash.com/photo-1507652955-f3dcef5a3be5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+cover_image: https://images.unsplash.com/photo-1507652955-f3dcef5a3be5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
 In this post, I break down the keyword `this` and provide a quick example using React.
