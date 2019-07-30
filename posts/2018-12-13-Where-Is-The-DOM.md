@@ -1,7 +1,9 @@
 ---
 date: 2018-12-13
 title: "Where is the DOM?"
+published: false
 tags: ["webdev", "bootcamp", "node"]
+canonical_url:
 image: https://cdn-images-1.medium.com/max/1600/1*beRYwjZEts5OBGUM1zEHbw.jpeg
 ---
 

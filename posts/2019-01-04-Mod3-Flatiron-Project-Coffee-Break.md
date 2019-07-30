@@ -1,7 +1,9 @@
 ---
 date: 2019-01-04
 title: "Mod 3 Flatiron Project - Coffee Break"
+published: false
 tags: ["javascript", "ruby", "bootcamp", "showdev", "webdev"]
+canonical_url:
 image: https://cdn-images-1.medium.com/max/1600/1*cE88UGiWpL3qR9kclGm-WA.jpeg
 ---
 

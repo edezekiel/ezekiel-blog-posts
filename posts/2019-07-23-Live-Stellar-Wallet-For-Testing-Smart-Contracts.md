@@ -1,7 +1,9 @@
 ---
 date: 2019-07-23
 title: "Live Stellar Wallet for Testing Smart Contracts"
+published: false
 tags: ["react", "blockchain", "showdev", "opensource", "webdev"]
+canonical_url:
 image: https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
