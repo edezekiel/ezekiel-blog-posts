@@ -1,15 +1,17 @@
 ---
 date: 2019-07-23
-title: 'Live Stellar Wallet for Testing Smart Contracts'
-tags: ['React', 'Blockchain']
+title: "Live Stellar Wallet for Testing Smart Contracts"
+tags: ["React", "Blockchain"]
 image: https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
 ---
+
 date: 2019-01-16
 title: 'How Do I Start a Blog?'
 tags: ['JavaScript']
 image: ../../images/how-do-i-start-a-blog.jpg
+
 ---
 
 # Stellar Wallet for Testing Mutisignature Escrow Account with Time Lock & Recovery.
@@ -110,7 +112,7 @@ You can image one account as a "seller" (the Destination), and another as a "buy
 
 Here are some of the resources I found helpful:
 
-*   [Stellar Laboratory:](https://www.stellar.org/laboratory/) I constantly had this tab open to test various operations, transactions, etc.
-*   [Michiel Mulders Article:](https://medium.com/wearetheledger/stellar-escrow-smart-contract-development-4c43ef32ac4b) Helps you get a little more familiar with the concept of account signers.
-*   [Sylvain Faucherand Article:](https://medium.com/coinmonks/simple-escrow-contract-using-stellar-67aa799f7db) Covers a basic escrow account, but doesn't address how to make it time-locked.
-*   [Robert Durst Article:](https://hackernoon.com/i-just-wrote-a-stellar-smart-contract-pt-2-lets-dive-a-little-deeper-a8dae19b9d0a) If you're still scratching your head about account signatures.
+- [Stellar Laboratory:](https://www.stellar.org/laboratory/) I constantly had this tab open to test various operations, transactions, etc.
+- [Michiel Mulders Article:](https://medium.com/wearetheledger/stellar-escrow-smart-contract-development-4c43ef32ac4b) Helps you get a little more familiar with the concept of account signers.
+- [Sylvain Faucherand Article:](https://medium.com/coinmonks/simple-escrow-contract-using-stellar-67aa799f7db) Covers a basic escrow account, but doesn't address how to make it time-locked.
+- [Robert Durst Article:](https://hackernoon.com/i-just-wrote-a-stellar-smart-contract-pt-2-lets-dive-a-little-deeper-a8dae19b9d0a) If you're still scratching your head about account signatures.
