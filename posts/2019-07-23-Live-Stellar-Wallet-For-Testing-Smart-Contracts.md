@@ -1,4 +1,11 @@
 ---
+date: 2019-01-01
+title: 'Example title'
+tags: ['JavaScript']
+image: ../../images/placeholder.jpg
+---
+
+---
 date: 2019-01-16
 title: 'How Do I Start a Blog?'
 tags: ['JavaScript']
