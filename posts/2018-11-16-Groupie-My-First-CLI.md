@@ -1,6 +1,6 @@
 ---
 date: 2019-01-01
-title: 'Example title'
+title: 'Groupie - My First CLI'
 tags: ['JavaScript']
-image: ../../images/placeholder.jpg
+image: https://cdn-images-1.medium.com/max/1600/1*FKY6UcbaTk7GvqmNkIBDsw.jpeg
 ---

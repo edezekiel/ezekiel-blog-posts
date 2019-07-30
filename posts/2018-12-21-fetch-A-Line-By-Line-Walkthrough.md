@@ -1,6 +1,6 @@
 ---
 date: 2019-01-01
-title: 'Example title'
+title: 'fetch() - A Line-By-Line Walkthrough'
 tags: ['JavaScript']
-image: ../../images/placeholder.jpg
+image: https://cdn-images-1.medium.com/max/1600/1*TCusjWxu_6fafgRdJq9dfQ.jpeg
 ---
