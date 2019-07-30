@@ -1,6 +1,6 @@
 ---
 date: 2019-01-01
 title: 'Example title'
-tags: ['JavaScript']
+tags: ['javascript']
 image: ../../images/placeholder.jpg
 ---
