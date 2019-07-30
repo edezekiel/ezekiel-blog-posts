@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 title: "Ruby on Rails - Why form_for Uses Instance Variables"
-tags: ["Ruby"]
+tags: ["ruby", "bootcamp", "webdev"]
 image: https://cdn-images-1.medium.com/max/1600/1*wkFg3wfdmcWcp8Tszz53Ow.jpeg
 ---
 
@@ -27,7 +27,7 @@ This article is about the my favorite "ah-ha" moment from this week: when I fina
 
 - `form_for`: this is our view helper.
 
-- `@employee`: see the section below.*
+- `@employee`: see the section below.\*
 
 - `f.`: the form_for method yields a form builder object (the f variable).
 

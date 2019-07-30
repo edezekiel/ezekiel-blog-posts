@@ -1,7 +1,7 @@
 ---
 date: 2018-10-12
 title: "CSS Styling Using Flexbox"
-tags: ["CSS"]
+tags: ["css", "beginners", "webdev"]
 image: https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3367&q=80
 ---
 
@@ -9,7 +9,7 @@ This week I added some style to my blog using CSS and Flexbox. This post summari
 
 CSS stands for Cascading-Style-Sheets. CSS is a language for specifying how documents are presented to users -- how they are styled, laid out, etc.
 
-The Flexible Box Module (Flexbox) is a new layout mode that was introduced CSS3\. See this article by spaceninja, [<span>"What is Flexbox, An elegant layout method for a more civilized age",</span>](https://spaceninja.com/2015/08/24/what-is-flexbox/) for a great background on the origin and purpose of Flexbox.
+The Flexible Box Module (Flexbox) is a new layout mode that was introduced CSS3. See this article by spaceninja, [<span>"What is Flexbox, An elegant layout method for a more civilized age",</span>](https://spaceninja.com/2015/08/24/what-is-flexbox/) for a great background on the origin and purpose of Flexbox.
 
 When a browser displays a document, it actually displays a combination of the document's content with its style information. Web browsers convert the document's content (the HTML) and style information (CSS) into the Document Object Model (DOM). When you view a webpage you are actually viewing a display of the contents of the DOM.
 

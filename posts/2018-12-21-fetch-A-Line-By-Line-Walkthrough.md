@@ -1,7 +1,7 @@
 ---
 date: 2018-12-21
 title: "fetch() - A Line-By-Line Walkthrough"
-tags: ["JavaScript"]
+tags: ["javascript", "bootcamp", "webdev"]
 image: https://cdn-images-1.medium.com/max/1600/1*TCusjWxu_6fafgRdJq9dfQ.jpeg
 ---
 

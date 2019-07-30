@@ -1,7 +1,7 @@
 ---
 date: 2018-12-07
-title: '❤️ Pair Programming'
-tags: ['Ruby', 'Rails', 'Meta']
+title: "❤️ Pair Programming"
+tags: ["ruby", "rails", "bootcamp", "beginners", "showdev"]
 image: https://cdn-images-1.medium.com/max/1600/1*oWwWfVhYXnQ04muJtnAi6A.jpeg
 ---
 
