@@ -11,21 +11,13 @@ After weeks of debugging, practicing, and coding, I have finally completed my mo
 
 This post is about my key takeaways from the past few weeks.
 
-\*\*
-
-Know When To Take A Step Back
-
-\*\*
+### Know When To Take A Step Back
 
 Going to a coding bootcamp can feel like a cramming session. Labs stack up, project deadlines get closer, and study sessions run late. Even so, it is incredibly important to take breaks.
 
 This project really tested my mental endurance, which is why taking breaks was critical. It helped that Christmas and New Year's fell in the middle of the mod. They helped/forced me to take a step back from the code. After a few days of rest the concepts started coming together.
 
-\*\*
-
-Thoughts on External APIs (Use Faker Instead)
-
-\*\*
+### Thoughts on External APIs (Use Faker Instead)
 
 At the beginning of my project I considered using an external API like yelp fusion. Their API is really easy to use and the documentation is great.
 
@@ -33,11 +25,7 @@ Notably, you can make yelp API requests without having to set up advanced OAuth2
 
 I got as far as seeding my rails database with data from yelp API. Eventually, though, I used the Ruby gem "Faker" to create my seed data.
 
-\*\*
-
-Faker
-
-\*\*
+### Faker
 
 Faker is amazing. It lets you build seed data amazingly fast with just a few lines of code. You don't have to learn API-specific rules, set up OAuth tokens, or manually create object instances.
 
@@ -58,11 +46,7 @@ Here is the entirety of my db.seed file for my mod 3 project:
 
 With this seed file, I had enough data to test my rails associations and render my website.
 
-\*\*
-
-Bulma
-
-\*\*
+### Bulma
 
 I decided to switch up my CSS framework for this project. Bulma is modern and based around the CSS Flexbox feature. My feelings about Bulma are mixed.
 

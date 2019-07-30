@@ -5,7 +5,7 @@ tags: ["JavaScript"]
 image: https://images.unsplash.com/photo-1527266237111-a4989d028b4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
-# JavaScript Loops Using `for...of` and `for...in`.
+## JavaScript Loops Using `for...of` and `for...in`.
 
 Earlier this week I was working on a coding problem that involved looping through characters in strings. I wanted to loop over all the characters in two strings to determine whether they were anagrams. This kind of task is common in technical interview situations.
 

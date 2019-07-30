@@ -7,23 +7,21 @@ image: https://images.unsplash.com/photo-1482376297902-a54c222cec2b?ixlib=rb-1.2
 
 Welcome to the inaugural post! For my first project, I will walk through how I set up this blog. There are four basic steps: (1) choose your web hosting service, (2) pick a domain name, (3) create an html file, and (4) upload the file.
 
-<dl>
+1. Choose a Web Hosting Service</dt>
 
-<dt>1\. Choose a Web Hosting Service</dt>
+[Hostingfacts.com](https://hostingfacts.com/) recently published its list of the "10 Best Web Hosting Services in 2018." They listed Bluehost as #1 for best reliability. After doing a bit more research I decided to go with Bluehost.
 
-<dd>[Hostingfacts.com](https://hostingfacts.com/) recently published its list of the "10 Best Web Hosting Services in 2018." They listed Bluehost as #1 for best reliability. After doing a bit more research I decided to go with Bluehost.</dd>
+2. Pick a Domain Name</dt>
 
-<dt>2\. Pick a Domain Name</dt>
+My next step was picking a domain name (edezekiel.com).
 
-<dd>My next step was picking a domain name (edezekiel.com).</dd>
+3. Create the HTML File</dt>
 
-<dt>3\. Create the HTML File</dt>
+I used Sublime to create this html file. I named the file "index.html."
 
-<dd>I used Sublime to create this html file. I named the file "index.html."</dd>
+4. Upload the HTML File</dt>
 
-<dt>4\. Upload the HTML File</dt>
-
-<dd>This step was my biggest hurdle, but I found a great tutorial on youtube at [<span>dancourses</span>](https://www.youtube.com/watch?v=XUmfXTnFMuw). Dan explains the cpanel and File Transfer Protocol (FTP) methods for uploading a HTML file. Cpanel is a linux webhost used by Bluehost and other web hosting services. You can log into cpanel by adding "/cpanel" to the end of your website name (e.g., "www.edezekiel.com/cpanel"). FTP creates a connection between a computer and a hosting account. Cpanel got the job done for now, but I will use FTP as my website grows.</dd>
+This step was my biggest hurdle, but I found a great tutorial on youtube at [<span>dancourses</span>](https://www.youtube.com/watch?v=XUmfXTnFMuw). Dan explains the cpanel and File Transfer Protocol (FTP) methods for uploading a HTML file. Cpanel is a linux webhost used by Bluehost and other web hosting services. You can log into cpanel by adding "/cpanel" to the end of your website name (e.g., "www.edezekiel.com/cpanel"). FTP creates a connection between a computer and a hosting account. Cpanel got the job done for now, but I will use FTP as my website grows.
 
 </dl>
 

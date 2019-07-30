@@ -5,16 +5,7 @@ tags: ["React", "Blockchain"]
 image: https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
----
-
-date: 2019-01-16
-title: 'How Do I Start a Blog?'
-tags: ['JavaScript']
-image: ../../images/how-do-i-start-a-blog.jpg
-
----
-
-# Stellar Wallet for Testing Mutisignature Escrow Account with Time Lock & Recovery.
+## Stellar Wallet for Testing Mutisignature Escrow Account with Time Lock & Recovery.
 
 I am very happy to announce the [Live](https://stellar-wallet.netlify.com) version of my open-source Stellar testnet wallet. Here is the code on [Github](https://github.com/edezekiel/stellar-wallet).
 

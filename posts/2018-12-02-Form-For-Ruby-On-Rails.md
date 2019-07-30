@@ -23,23 +23,23 @@ This article is about the my favorite "ah-ha" moment from this week: when I fina
       <%= f.submit %>
     <% end %>
 
-<dt>**What's Going on in This Example?**</dt>
+**What's Going on in This Example?**
 
-<dd>`form_for`: this is our view helper.</dd>
+- `form_for`: this is our view helper.
 
-<dd>`@employee`: see the section below.*</dd>
+- `@employee`: see the section below.*
 
-<dd>`f.`: the form_for method yields a form builder object (the f variable).</dd>
+- `f.`: the form_for method yields a form builder object (the f variable).
 
-<dd>`collection_select`: this is a pre-defined rails form-building method, called on f.</dd>
+- `collection_select`: this is a pre-defined rails form-building method, called on f.
 
-<dd>`dog_id`: save the user’s input (whatever it is) in the params[:id].</dd>
+- `dog_id`: save the user’s input (whatever it is) in the params[:id].
 
-<dd>`@dogs`: this kind of object will appear in the drop down menu.</dd>
+- `@dogs`: this kind of object will appear in the drop down menu.
 
-<dd>`:id`: save the id of whatever dog the user selects.</dd>
+- `:id`: save the id of whatever dog the user selects.
 
-<dd>`:name`: show dog names to the user in the drop down menu.</dd>
+- `:name`: show dog names to the user in the drop down menu.
 
 **@employee**
 

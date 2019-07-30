@@ -5,8 +5,6 @@ tags: ["Meta"]
 image: https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1693&q=80
 ---
 
-<article>
-
 One year ago I was employed as an attorney in Atlanta, GA. Since then I've quit my job, completed an immersive software engineering bootcamp, moved to Memphis, TN, _become a father_, and signed a contract to work as a software engineer at an amazing Blockchain Development firm in Memphis, TN.
 
 I've already [written](https://www.edezekiel.com/about) about why I transitioned from law to software engineering. This post is my chance to thank everyone who supported me, share a few lessons I learned along the way, and dream about what comes next.
