@@ -1,6 +1,14 @@
 {
-  "title": "Test",
-  "values": [
+  "fields": [
+    "id",
+    "title",
+    "text",
+    "date",
+    "image",
+    "created_at",
+    "updated_at"
+  ],
+  "posts": [
     [
       7,
       "How Do I Start a Blog?",
@@ -271,27 +279,5 @@
       "2019-07-23 21:15:07.804933",
       "2019-07-23 21:15:07.804933"
     ]
-  ],
-  "fields": [
-    "id",
-    "title",
-    "text",
-    "date",
-    "image",
-    "created_at",
-    "updated_at"
-  ],
-  "types": [20, 1043, 25, 1043, 1043, 1114, 1114],
-  "type_names": [
-    "integer",
-    "text",
-    "text",
-    "text",
-    "text",
-    "timestamp without time zone",
-    "timestamp without time zone"
-  ],
-  "started_at": "2019-07-30 14:55:38 +0000",
-  "finished_at": "2019-07-30 14:55:38 +0000",
-  "checksum": "0bbfcd9007c0654096e378977df9551c"
+  ]
 }
